@@ -15,10 +15,14 @@ Creating Sample project/skeleton for those who want to use spring boot and expos
 
   **here are the REST api which we have expose:** 
   http://localhost:9090/RestAPIDemo/api/
+  
+  
   http://localhost:9090/RestAPIDemo/api/hello?name=chin
 
 6. swagger integration for documentation and use of annotation for REST APIs for documentating proper definition/description.
   http://localhost:9090/RestAPIDemo/swagger-ui/
+  
+  
   http://localhost:9090/RestAPIDemo/v2/api-docs
   
 7. use of actuator for health monitor.
