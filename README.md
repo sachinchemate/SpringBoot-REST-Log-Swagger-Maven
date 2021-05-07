@@ -1,6 +1,6 @@
 # SpringBoot-REST-Log-Swagger-Maven
+Creating Sample project/skeleton for those who want to use spring boot and expose any service as Restfull API with Swagger & Log using Maven. 
 
-Creating Sample project/skeleton for those who want to use spring boot and expose any service as Restfull API. 
 **Learning:
 
 1. **SpringBoot** app using **maven** (you don't have to worry about dependency, starter Jar will take care of all the dependent jars)
